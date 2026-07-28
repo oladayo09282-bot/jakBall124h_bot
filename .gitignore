@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+bookrec.db
+venv/
+.venv/
